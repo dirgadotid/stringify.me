@@ -2,14 +2,14 @@
 	"basics": {
 		"name": "Dirga ID",
 		"label": "Architect",
-		"picture": "profile.jpg",
+		"picture": "profile.png",
 		"email": "dirgadotid@outlook.com",
 		"phone": "(912) 98765-4321",
 		"website": "https://www.dirga.id/",
 		"twitter": "https://twitter.com/dirgadotid",
 		"facebook": "https://www.facebook.com/dirgadotid",
-		"github": "http://github.com/dirgadotid",
-		"summary": "I work as a blogger at www.dirga.id, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"github": "https://www.dirga.id/",
+		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
